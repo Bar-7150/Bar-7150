@@ -3,4 +3,9 @@ debug_about.html
 test_full_preview.html
 check_table.py
 test_align_view.html
+test_layout.py
+test_full_check.html
+test_code_inside_p.html
+gen_svg.py
+terminal_info.svg
 __pycache__/

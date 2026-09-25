@@ -10,17 +10,8 @@
   <a href="mailto:sunetrabarofficial2025@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Bar-7150?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=Bar-7150&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-<br clear="left"/>
-
-### 👨‍💻 About Me
-
-<p align="left">
-  <img align="left" width="50%" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Sunetra Bar - Octocat Builder" />
-</p>
-
-```yaml
-name: Sunetra Bar
+  <br/><br/>
+  <pre><code>name: Sunetra Bar
 institution: KGEC (Kalyani Govt Engineering College)
 location: Kalyani, West Bengal, India
 passions:
@@ -28,9 +19,32 @@ passions:
   - AI & Deep Learning
   - Cybersecurity & Pentesting
 portfolio: https://netra-sand.vercel.app
-email: sunetrabarofficial2025@gmail.com
-```
+email: sunetrabarofficial2025@gmail.com</code></pre>
+</p>
+<br clear="left"/>
 
+### 👨‍💻 About Me
+
+<p align="left">
+  <img align="left" width="45%" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Sunetra Bar - Octocat Builder" />
+  <pre><code>sunetra@kgec ----------------------------------------
+. OS: .............. Linux (Kali / Ubuntu), Windows
+. Host: ............ Kalyani Govt Engineering College
+. Dept: ............ Information Technology (B.Tech)
+. Kernel: .......... Full-Stack • AI/ML • Pentesting
+. IDE: ............. VS Code, Cursor, Neovim
+.
+. Languages: ....... TypeScript, Python, JS, C++
+. Frameworks.Web: .. Next.js, React, Node.js, FastAPI
+. Frameworks.AI: ... PyTorch, OpenCV, Agentic Workflows
+. Security.Tools: .. Nmap, Burp Suite, Wireshark, Docker
+. Languages.Real: .. English, Bengali, Hindi
+.
+-- Contact ------------------------------------------
+. Email.Personal: .. sunetrabarofficial2025@gmail.com
+. Portfolio: ....... https://netra-sand.vercel.app
+. GitHub: .......... https://github.com/Bar-7150</code></pre>
+</p>
 <br clear="left"/>
 
 * 🎓 **Education**: Information Technology student at **Kalyani Government Engineering College (KGEC)**
