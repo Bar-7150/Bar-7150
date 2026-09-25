@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:A855F7,80:EC4899,100:F43F5E&height=200&section=header&text=Sunetra%20Bar&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50" alt="Sunetra Bar Header" style="width:100%;max-width:100%;" />
+<img src="assets/header_banner.svg" alt="Sunetra Bar Header" style="width:100%;max-width:100%;" />
 
 <p align="left">
   <img align="left" width="40%" src="assets/developer_desk_rounded.svg" alt="Sunetra Bar - Developer Desk" />

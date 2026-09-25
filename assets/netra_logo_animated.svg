@@ -1,0 +1,68 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="292"
+  height="195"
+  viewBox="0 0 292 195"
+>
+  <defs>
+    <filter id="standaloneGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3.5" flood-color="#00F0FF" flood-opacity="0.7"/>
+    </filter>
+    <linearGradient id="standaloneGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF">
+        <animate attributeName="stop-color" values="#FFFFFF;#A5F3FC;#FFFFFF;#EDE9FE;#FFFFFF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#818CF8;#38BDF8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFFFFF">
+        <animate attributeName="stop-color" values="#FFFFFF;#C084FC;#38BDF8;#FFFFFF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="standaloneScan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="70%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="standaloneEyeClip">
+      <path d="M 130,7 L 60,30 L 4,80 L 64,123 L 101,126 L 62,102 L 29,77 L 69,46 Z M 284,78 L 231,34 L 189,31 L 234,58 L 259,77 L 210,114 L 154,146 L 224,126 Z M 105,45 L 96,48 L 94,50 L 73,59 L 69,68 L 65,86 L 66,91 L 100,108 L 98,104 L 95,101 L 95,99 L 90,93 L 84,82 L 84,79 L 91,64 L 99,52 Z M 192,49 L 190,49 L 193,54 L 194,58 L 196,60 L 196,62 L 200,68 L 203,77 L 196,93 L 192,100 L 189,103 L 188,106 L 183,112 L 191,109 L 193,107 L 195,107 L 200,103 L 204,102 L 216,95 L 219,85 L 221,73 L 220,63 L 218,63 L 213,59 L 211,59 L 209,57 Z M 129,41 L 120,45 L 113,50 L 104,61 L 100,72 L 100,85 L 102,92 L 107,100 L 115,108 L 125,114 L 134,116 L 152,116 L 163,113 L 173,107 L 180,100 L 186,90 L 188,81 L 188,74 L 186,65 L 178,52 L 170,46 L 162,42 L 148,39 L 139,39 Z" fill-rule="evenodd"/>
+    </clipPath>
+  </defs>
+
+  <g filter="url(#standaloneGlow)">
+    <path d="M 130,7 L 60,30 L 4,80 L 64,123 L 101,126 L 62,102 L 29,77 L 69,46 Z M 284,78 L 231,34 L 189,31 L 234,58 L 259,77 L 210,114 L 154,146 L 224,126 Z" fill="url(#standaloneGradient)">
+      <animate attributeName="opacity" values="0.88; 1; 0.88" dur="3s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M 105,45 L 96,48 L 94,50 L 73,59 L 69,68 L 65,86 L 66,91 L 100,108 L 98,104 L 95,101 L 95,99 L 90,93 L 84,82 L 84,79 L 91,64 L 99,52 Z M 192,49 L 190,49 L 193,54 L 194,58 L 196,60 L 196,62 L 200,68 L 203,77 L 196,93 L 192,100 L 189,103 L 188,106 L 183,112 L 191,109 L 193,107 L 195,107 L 200,103 L 204,102 L 216,95 L 219,85 L 221,73 L 220,63 L 218,63 L 213,59 L 211,59 L 209,57 Z" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.9; 1; 0.9" dur="2s" repeatCount="indefinite"/>
+    </path>
+
+    <g transform-origin="147 79">
+      <animateTransform attributeName="transform" type="scale"
+        values="1; 1.07; 1" dur="2.8s" repeatCount="indefinite"
+        calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+      <path d="M 129,41 L 120,45 L 113,50 L 104,61 L 100,72 L 100,85 L 102,92 L 107,100 L 115,108 L 125,114 L 134,116 L 152,116 L 163,113 L 173,107 L 180,100 L 186,90 L 188,81 L 188,74 L 186,65 L 178,52 L 170,46 L 162,42 L 148,39 L 139,39 Z M 131,56 L 137,54 L 149,54 L 155,56 L 158,58 L 165,65 L 169,75 L 169,81 L 165,91 L 158,98 L 150,102 L 141,103 L 134,101 L 127,97 L 121,91 L 118,84 L 118,73 L 119,69 L 122,64 Z" fill="url(#standaloneGradient)" fill-rule="evenodd" />
+    </g>
+
+    <circle cx="147" cy="79" r="7" fill="#00F5FF">
+      <animate attributeName="r" values="5.5; 8.5; 5.5" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.65; 1; 0.65" dur="2.8s" repeatCount="indefinite" />
+    </circle>
+
+    <g clip-path="url(#standaloneEyeClip)">
+      <line x1="10" y1="10" x2="282" y2="10" stroke="url(#standaloneScan)" stroke-width="3">
+        <animate attributeName="y1" values="15; 140; 15" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"/>
+        <animate attributeName="y2" values="15; 140; 15" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"/>
+        <animate attributeName="opacity" values="0; 0.95; 0" dur="3.5s" repeatCount="indefinite" />
+      </line>
+    </g>
+
+    <path d="M 52,170 L 45,171 L 44,173 L 44,176 L 41,183 L 38,185 L 18,171 L 10,172 L 9,174 L 9,177 L 4,189 L 4,193 L 10,192 L 10,189 L 16,177 L 24,183 L 26,183 L 38,192 L 44,192 L 46,188 L 46,185 L 49,179 L 50,173 Z M 74,174 L 106,174 L 108,170 L 75,170 L 75,172 Z M 72,183 L 103,183 L 106,179 L 73,179 L 73,181 Z M 69,192 L 104,192 L 106,190 L 106,188 L 71,188 L 69,190 Z M 129,174 L 146,177 L 143,189 L 143,192 L 149,192 L 149,189 L 152,180 L 152,176 L 154,174 L 167,174 L 170,170 L 133,170 L 131,171 Z M 190,171 L 189,174 L 223,175 L 218,179 L 200,180 L 190,182 L 187,186 L 185,193 L 192,192 L 194,185 L 201,184 L 203,186 L 216,193 L 222,192 L 226,193 L 220,189 L 218,189 L 211,184 L 221,183 L 223,181 L 225,181 L 229,176 L 229,170 Z M 248,193 L 250,193 L 251,192 L 255,193 L 257,191 L 257,190 L 260,188 L 271,176 L 274,177 L 275,180 L 279,184 L 281,188 L 284,192 L 287,192 L 291,193 L 291,191 L 285,184 L 284,181 L 280,177 L 279,174 L 276,170 L 269,170 L 263,176 Z" fill="url(#standaloneGradient)">
+      <animate attributeName="opacity" values="0.92; 1; 0.92" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
