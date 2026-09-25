@@ -97,7 +97,7 @@ email: sunetrabarofficial2025@gmail.com
 ### 🌍 3D Contribution Calendar (Southern Hemisphere Season)
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-south-season.svg" alt="Sunetra Bar's 3D Contribution Graph - Southern Hemisphere Season" width="100%" />
+  <img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Sunetra Bar's 3D Contribution Graph - Southern Hemisphere Season (Animated)" width="100%" />
 </p>
 
 ---
