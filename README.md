@@ -54,6 +54,26 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 * 🏆 **Hackathon Builder**: Active participant and builder across hackathons (Smart India Hackathon, Vibe Coding, etc.)
 * 💡 **Open-Source Mindset**: Collaborative developer dedicated to building scalable and human-centric software
 
+### 🌍 3D Contribution Calendar (Southern Hemisphere Season)
+
+<img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Sunetra Bar's 3D Contribution Graph - Southern Hemisphere Season (Animated)" style="width:100%;max-width:100%;" />
+
+### 🐍 Contribution Snake Matrix
+
+<img src="https://raw.githubusercontent.com/Bar-7150/Bar-7150/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="width:100%;max-width:100%;" />
+
+### 📊 GitHub Activity & Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bar-7150&theme=default&border_radius=8" alt="GitHub Streak Tracker" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bar-7150&theme=default" alt="GitHub Overall Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bar-7150&theme=default" alt="Top Languages by Repos" />
+</p>
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
@@ -110,26 +130,6 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 | 📹 **vertualMeetup** | ⚡ **Real-Time App** | Low-latency peer-to-peer video conferencing application with instant screen sharing and chat. | `JavaScript` `WebRTC` `Socket.io` `Node.js` | [Repo](https://github.com/Bar-7150/vertualMeetup) |
 | 🛡️ **Women Safety Emergency App** | 🏆 **Hackathon** | SOS emergency alert application featuring instant live GPS location dispatch and safety tracking. | `React` `Tailwind` `Geolocation API` | [Repo](https://github.com/Bar-7150/Women-Safety-Vibe-coding-hackathon-app) |
 | 💼 **Portfolio v2** | 🎨 **Personal** | Highly interactive 3D developer portfolio showcasing projects, experience, and clean design system. | `Next.js` `Three.js` `GSAP` `Tailwind` | [Live Site](https://netra-sand.vercel.app) • [Repo](https://github.com/Bar-7150/portfolioV2) |
-
-### 🌍 3D Contribution Calendar (Southern Hemisphere Season)
-
-<img src="profile-3d-contrib/profile-south-season-animate.svg" alt="Sunetra Bar's 3D Contribution Graph - Southern Hemisphere Season (Animated)" style="width:100%;max-width:100%;" />
-
-### 🐍 Contribution Snake Matrix
-
-<img src="https://raw.githubusercontent.com/Bar-7150/Bar-7150/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" style="width:100%;max-width:100%;" />
-
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bar-7150&theme=default&border_radius=8" alt="GitHub Streak Tracker" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bar-7150&theme=default" alt="GitHub Overall Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bar-7150&theme=default" alt="Top Languages by Repos" />
-</p>
 
 ### 📬 Connect With Me
 
