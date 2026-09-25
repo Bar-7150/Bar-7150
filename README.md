@@ -85,8 +85,8 @@ email: sunetrabarofficial2025@gmail.com
 
 | Project | Type | Description | Tech Stack | Links |
 | :--- | :---: | :--- | :--- | :---: |
-| 🌾 **KrishirakshaAI** | 👥 **Team Project** | Intelligent agricultural defense platform featuring AI-powered crop pathology detection, severity assessment, and farmer advisory workflows. Built collaboratively as a team project. | `TypeScript` `Python` `AI/ML` `OpenCV` | [Repo](https://github.com/Bar-7150/KrishirakshaAI) |
-| 🛰️ **ISRO Analytics Platform** | 🚀 **Solo Project** | Geospatial and satellite data visualization web platform with real-time analytical tools and imagery rendering. | `Next.js` `Python` `AI/ML` `Vercel` | [Demo](https://web-nu-eight-19.vercel.app) • [Repo](https://github.com/Bar-7150/ISRO) |
+| 🌾 **KrishirakshaAI** | 👥 **Team Project** | Intelligent agricultural defense platform featuring AI-powered crop pathology detection, severity assessment, and farmer advisory workflows. Built collaboratively as a team project. | `TypeScript` `Python` `AI/ML` `OpenCV``SIH2026` | [Repo](https://github.com/Bar-7150/KrishirakshaAI) |
+| 🛰️ **ISRO Analytics Platform** | 🚀 **Team Project** | Geospatial and satellite data visualization web platform with real-time analytical tools and imagery rendering. | `Next.js` `Python` `AI/ML` `Vercel` `SIH2026` | [Demo](https://web-nu-eight-19.vercel.app) • [Repo](https://github.com/Bar-7150/ISRO) |
 | 🌐 **College-Nexus** | 🎓 **Campus Hub** | Centralized collegiate networking ecosystem connecting students, notes sharing, events, and academic collaboration. | `React` `Node.js` `Express` `MongoDB` | [Repo](https://github.com/Bar-7150/College-Nexus) |
 | 📹 **vertualMeetup** | ⚡ **Real-Time App** | Low-latency peer-to-peer video conferencing application with instant screen sharing and chat. | `JavaScript` `WebRTC` `Socket.io` `Node.js` | [Repo](https://github.com/Bar-7150/vertualMeetup) |
 | 🛡️ **Women Safety Emergency App** | 🏆 **Hackathon** | SOS emergency alert application featuring instant live GPS location dispatch and safety tracking. | `React` `Tailwind` `Geolocation API` | [Repo](https://github.com/Bar-7150/Women-Safety-Vibe-coding-hackathon-app) |
