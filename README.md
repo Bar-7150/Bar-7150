@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:A855F7,80:EC4899,100:F43F5E&height=200&section=header&text=Sunetra%20Bar&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50" alt="Sunetra Bar Header" style="width:100%;max-width:100%;" />
 
 <p align="left">
-  <img align="left" width="40%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Sunetra Bar - Developer Desk" />
+  <img align="left" width="40%" src="assets/developer_desk_rounded.svg" alt="Sunetra Bar - Developer Desk" />
   <a href="https://github.com/Bar-7150">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=false&vCenter=true&random=false&width=480&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sunetra+Bar!;%F0%9F%9A%80+Full-Stack+Engineer+(MERN+%26+Next.js);%F0%9F%A7%A0+AI+%2F+Machine+Learning+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+Penetration+Testing;%E2%9A%A1+Passionate+about+Scalable+Architectures;%F0%9F%8C%9F+Building+high-impact+software." alt="Typing SVG" />
   </a>
@@ -91,7 +91,7 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" alt="Cybersecurity Workstation - Star Passing" />
+  <img src="assets/cybersecurity_workstation_rounded.svg" width="100%" alt="Cybersecurity Workstation - Star Passing" />
 </p>
 
 * 🔍 **Network Reconnaissance & Vulnerability Assessment**: Port scanning, service enumeration, and script scanning using **Nmap**
@@ -139,7 +139,7 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Cyberpunk City Pixel Art - Perfect Loop" />
+<img src="assets/cyberpunk_city_rounded.svg" width="100%" alt="Cyberpunk City Pixel Art - Perfect Loop" />
 
 </div>
 
