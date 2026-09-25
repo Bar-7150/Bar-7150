@@ -1,4 +1,6 @@
 preview_gen.py
 debug_about.html
 test_full_preview.html
+check_table.py
+test_align_view.html
 __pycache__/
