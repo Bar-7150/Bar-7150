@@ -6,10 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=false&vCenter=true&random=false&width=480&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sunetra+Bar!;%F0%9F%9A%80+Full-Stack+Engineer+(MERN+%26+Next.js);%F0%9F%A7%A0+AI+%2F+Machine+Learning+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+Penetration+Testing;%E2%9A%A1+Passionate+about+Scalable+Architectures;%F0%9F%8C%9F+Building+high-impact+software." alt="Typing SVG" />
   </a>
   <br/><br/>
-  <a href="https://netra-sand.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
-  <a href="mailto:sunetrabarofficial2025@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Bar-7150?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Bar-7150&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://netra-sand.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="mailto:sunetrabarofficial2025@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Bar-7150?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4F46E5?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/sunetra-bar-862796368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_ronii_11.11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bar-7150&style=flat-square&color=EC4899&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/><br/>
   <pre><code>name: Sunetra Bar
 institution: KGEC (Kalyani Govt Engineering College)
@@ -19,7 +21,9 @@ passions:
   - AI & Deep Learning
   - Cybersecurity & Pentesting
 portfolio: https://netra-sand.vercel.app
-email: sunetrabarofficial2025@gmail.com</code></pre>
+email: sunetrabarofficial2025@gmail.com
+linkedin: https://www.linkedin.com/in/sunetra-bar-862796368
+instagram: https://instagram.com/_ronii_11.11</code></pre>
 </p>
 <br clear="left"/>
 
@@ -43,7 +47,9 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 -- Contact ------------------------------------------
 . Email.Personal: .. sunetrabarofficial2025@gmail.com
 . Portfolio: ....... https://netra-sand.vercel.app
-. GitHub: .......... https://github.com/Bar-7150</code></pre>
+. GitHub: .......... https://github.com/Bar-7150
+. LinkedIn: ........ https://www.linkedin.com/in/sunetra-bar-862796368
+. Instagram: ....... https://instagram.com/_ronii_11.11</code></pre>
 </p>
 <br clear="left"/>
 
@@ -135,7 +141,21 @@ email: sunetrabarofficial2025@gmail.com</code></pre>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://netra-sand.vercel.app) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-sunetrabarofficial2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunetrabarofficial2025@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Follow%20%40Bar--7150-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bar-7150)
+  <a href="https://netra-sand.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+  </a> &nbsp;
+  <a href="mailto:sunetrabarofficial2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sunetrabarofficial2025%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a> &nbsp;
+  <a href="https://github.com/Bar-7150">
+    <img src="https://img.shields.io/badge/GitHub-Bar--7150-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/sunetra-bar-862796368">
+    <img src="https://img.shields.io/badge/LinkedIn-sunetra--bar--862796368-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://instagram.com/_ronii_11.11">
+    <img src="https://img.shields.io/badge/Instagram-@__ronii__11.11-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 <br/>
 
